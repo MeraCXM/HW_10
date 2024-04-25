@@ -1,3 +1,168 @@
+    1  cd Desktop cd QA35
+    2  cd ../
+    3  cd /c/Users/Ry/Desktop/QA35
+    4  cleear
+    5  clear
+    6  pwd
+    7  Ls -l
+    8  touch test.txt
+    9  Ls -l
+   10  clear
+   11  vin text.txt
+   12  clear
+   13  vim text.txt
+   14  cat text.txt
+   15  cat text.txt
+   16  clear
+   17  mkdir Kos
+   18  Ls-l
+   19  clear
+   20  mkdir Mera
+   21  ls -l
+   22  cp text.txt Mera/
+   23  ls -l
+   24  cd Mera/
+   25  ls -l
+   26  rm test.txt
+   27  rm test.txt
+   28  ls -l
+   29  Mera rm test.txt
+   30  ls -l
+   31  Kos rm test.txt
+   32  ls -l
+   33  rm test.txt
+   34  ls -l
+   35  clear
+   36  ping google.com
+   37  date
+   38  systeminfo
+   39  clear
+   40  systeminfo
+   41  clear
+   42  cd../
+   43  ls -l
+   44  cd Kos
+   45  ls -l
+   46  ls -l
+   47  ls -l
+   48  clear
+   49  cd../
+   50  ls -l
+   51  cd../..
+   52  ls -l
+   53  clear
+   54  cd../
+   55  ls -l
+   56  attrib +r test.txt
+   57  ls -l
+   58  cd /c/Users/Ry/Desktop/QA35
+   59  ls -l
+   60  attrib +r text.txt
+   61  ls -l
+   62  ls -l
+   63  clear
+   64  git clone https://github.com/MeraCXM/HW_10..git
+   65  clear
+   66  git clone https://github.com/MeraCXM/HW_10..git 
+   67  cd /c/Users/Ry/Desktop/QA35
+   68  git clone https://github.com/MeraCXM/HW_10..git
+   69  clear
+   70  cd/c/Users/Ry/Desktop/HW_10
+   71  git clone https://github.com/MeraCXM/HW_10..git
+   72  cd /c/Users/Ry/Desktop/HW_10
+   73  clear
+   74  cd /c/Users/Ry/Desktop/QA35
+   75  git clone https://github.com/MeraCXM/HW_10..git
+   76  cd /c/Users/Ry/Desktop/QA35
+   77  git clone https://github.com/MeraCXM/HW_10..git
+   78  cd /c/Users/Ry/Desktop/HW_10
+   79  git clone https://github.com/MeraCXM/HW_10..git
+   80  clear
+   81  cd /c/Users/Ry/Desktop/QA35
+   82  git clone https://github.com/MeraCXM/HW_10..git
+   83  git clone https://github.com/MeraCXM/GitQA35.git
+   84  clean
+   85  clear
+   86  cd GitQA35/
+   87  Gitclear
+   88  clear
+   89  git config--global user.name "MeraCXM"
+   90  git config --global user.name "MeraCXM" 
+   91  git config --global user.email "operator1987.28.08@gmail.com" 
+   92  touch fail.txt
+   93  ls-1
+   94  ls -1
+   95  clear
+   96  git status
+   97  git edd faile.txt 
+   98  git edd fail
+   99  clear
+  100  touch file.txt
+  101  ls -1
+  102  git add file.txt
+  103  git status
+  104  clear
+  105  git commit -m "First commit"
+  106  git push
+  107  cd /c/Users/Ry/Desktop/QA35/GitQA35
+  108  git commit-m"First comitm"
+  109  git commit -m "First commit"
+  110  clear
+  111  touch fail.txt
+  112  ls -1
+  113  git status
+  114  git add fail.txt
+  115  git status
+  116  git commit -m "First commit"
+  117  git push
+  118  clear
+  119  git branch
+  120  git checkout -b test
+  121  touch test.txt
+  122  ls -1
+  123  git status
+  124  git add test.txt
+  125  git status
+  126  git commit -m"Second commit"
+  127  git checkout main
+  128  git merge test
+  129  git push
+  130  cd /c/Users/Ry/Desktop/HW_10
+  131  git clone https://github.com/MeraCXM/HW_10.git
+  132  cd /c/Users/Ry/Desktop/HW_10/HW_10
+  133  git config --global user.name "MeraCXM"
+  134  git config --global user.email "operator1987.28.08@gmail.com"
+  135  touch text_ignore.txt
+  136  ls -1
+  137  git status 
+  138  vim gitignore
+  139  git status 
+  140  git add gitignore
+  141  warning: in the working copy of 'gitignore', LF will be replaced by CRLF the next time Git touches it
+  142  git status 
+  143  is -i
+  144  Is -I
+  145  git commit -m "First commit"
+  146   touch main_test.txt
+  147  git add main_test.txt
+  148  git commit -m "Second commit"
+  149  git branch 
+  150  git checkout -b develop
+  151  git branch 
+  152   touch develop_test.txt
+  153  ls -l
+  154  git status 
+  155  git add develop_test.txt
+  156  git status 
+  157  git commit -m "Third commit"
+  158  vim develop_test.txt file
+  159  cat develop_test.txt file
+  160  git status 
+  161  git add develop_test.txt
+  162  git status 
+  163  git commit -m "Fourth commit"
+  164  git commit -m "Third commit"
+  165  git add develop_test.txt
   166* 
   167  git checkout main 
   168  git merge develop 
@@ -28,3 +193,7 @@
   193  git commit -m "Видалено файл text_ignore.txt"
   194  git push
   195  history > command_list.csv 30
+  196  git add command_list.csv
+  197  git commit -m "створено файл command_list.csv"
+  198  git push
+  199  history > command_list.csv 
