@@ -1,0 +1,30 @@
+  166* 
+  167  git checkout main 
+  168  git merge develop 
+  169  git log
+  170  history > command_list.csv
+  171  git add 
+  172  git add.
+  173  git add history > command_list.csv 
+  174  git commit -m "Fifth commit"
+  175  git push
+  176* git 
+  177  git commit -m "Fifth commit"
+  178  git push
+  179  vim gitignore
+  180  vim .gitignore
+  181  vim .gitignore
+  182  vim .gitignore
+  183  vim .gitignore
+  184  git add .gitignore
+  185  git commit -m "змінено файл .gitignore"
+  186  git push
+  187  git rm gitignore 
+  188  git add gitignore
+  189  git commit -m "Видалено файл gitignore"
+  190  git push
+  191  git rm text_ignore.txt 
+  192  git add text_ignore.txt 
+  193  git commit -m "Видалено файл text_ignore.txt"
+  194  git push
+  195  history > command_list.csv 30
